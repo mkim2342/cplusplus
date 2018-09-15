@@ -123,7 +123,7 @@ int main()
                 //do factorial
                 cout << "Enter the number that you want to find the factorial of";
                 cin >> num1;
-                cout<<tgamma(num1+1) << '\n';
+                cout<<tgamma(num1+1);
         }
 
         else {
